@@ -7,3 +7,5 @@ Convolution Neural Network a Deep Learning Algorithm is used for  the classifica
 3. Finally used Transfer Learning and applied the pretrained VGG16 CNN model and got the accuracy around 98%.
 
 ### Tranfer Learning:- It is technique used to increase the accuracy and avoid the overfitting of the model. A pretrained model such as VGGNET or GOOGLENET is used as the of the CNN model and the fullu connected network is then manipulated according to the user.This results in the growth fo accuracy.
+
+Please check the Jupyter Notebook for better understanding.
